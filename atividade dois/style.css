@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+        background-color:rgb(183, 225, 233);
+        color: #0026ff;
+    }
+    h1{
+        font-family: yuyu short;
+        color: rgb(102, 158, 207);
+        font-size: 50px;
+    }
+    p{
+        font-family: Alfa Slab One;
+        color: rgb(102, 158, 207);
+        font-size: 50px;
+    }
+    #nao-roxo{
+        color: aliceblue;
+    }
+    .maisculas{
+        text-transform: uppercase;
+    }
+
+    nav a{
+        color: rgb(84, 147, 206);
+    }
+    .foto{
+        display: block;
+    }
